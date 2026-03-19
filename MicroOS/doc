@@ -1,1 +1,2 @@
-commands: c - create, d - delete, l - clear shell, v - ver, n - net check, e - export fs, i - import fs, o - documentation, r - reset
+avail cmd: c, d, l, v, n, e, i, o, r
+e

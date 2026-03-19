@@ -1,0 +1,1 @@
+MicroOS is an extremely small build of Scratch operating systems, while maintaining some key features like a terminal. There will be other versions of MicroOS ranging from MicroOS (<3072 bytes) to NetOS (<1024KB). Other micro operating systems will come soon.
